@@ -129,7 +129,7 @@ npm run dev
 
 ## 联系我
 
-您可以联系我的邮箱 <a href="mailto:shujitiniy2033@163.com">shujitiniy2033@163.com</a>
+您可以联系我的邮箱 <a href="mailto:zyronon@163.com">zyronon@163.com</a>
 > 分享我其他开源项目：
 >
 >_[**Typing Word
